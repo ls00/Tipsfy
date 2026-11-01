@@ -23,9 +23,5 @@ skills-lock.json
 /.plugins/
 /.opencode-skills/
 
-.vercel
-.env*
 !.env.example
-
-.env*
-.vercel
+.vercel/
