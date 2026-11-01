@@ -1,19 +1,5 @@
 <div align="center">
 
-# Tipsfy
-
-### A operação do seu negócio de tipster, em um só lugar.
-
-Acompanhe assinantes, planos, cobranças e desempenho esportivo em um painel feito para a rotina de quem publica análises por assinatura.
-
-[**Acessar o Tipsfy**](https://tipsfy.vercel.app)
-
-<br />
-
-<img src="src/assets/dashboard.png" alt="Dashboard do Tipsfy com indicadores de receita, assinantes e performance" width="100%" />
-
-</div>
-
 ## Uma visão clara da operação
 
 Do acompanhamento de receita recorrente ao histórico de resultados, o Tipsfy reúne as ferramentas essenciais para administrar uma comunidade de assinantes.
@@ -57,6 +43,7 @@ Autenticação, dados persistidos em PostgreSQL e fluxos de gestão construídos
 
 <div align="center">
 
-[**Entrar na plataforma**](https://tipsfy.vercel.app/login) · [Criar uma conta](https://tipsfy.vercel.app/onboarding)
+Credenciais de conta de demonstração:
 
-</div>
+E-mail: tipsfy.test.1790545698135.f6c0b22862@example.com
+Senha:  OQMFV1Ebw3ePMlHDZg9sv-Lsl_LvTrmLUZfyBcBUcZETxUE9
